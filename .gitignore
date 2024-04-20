@@ -127,7 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+employee_env/
+Employees/Crud/migrations/
+Employees/Crud/__pycache__/
 # Spyder project settings
 .spyderproject
 .spyproject
